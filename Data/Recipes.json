@@ -1,0 +1,559 @@
+[
+    {
+        "_id": "1",
+        "chefId":"1",
+        "name": "Spaghetti Bolognese",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "400g spaghetti",
+          "1 onion, chopped",
+          "1 garlic clove, minced",
+          "2 tbsp olive oil",
+          "500g beef mince",
+          "400g can chopped tomatoes",
+          "2 tbsp tomato paste",
+          "1 tsp dried oregano",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "Cook spaghetti in a large pot of boiling salted water for 10-12 minutes or until al dente.",
+          "Meanwhile, heat olive oil in a large skillet over medium heat.",
+          "Add onion and garlic and cook until soft and translucent.",
+          "Add beef mince and cook until browned.",
+          "Add canned tomatoes, tomato paste, oregano, salt, and black pepper.",
+          "Simmer for 15-20 minutes or until the sauce has thickened.",
+          "Serve spaghetti topped with Bolognese sauce."
+        ],
+        "rating": 2.5,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "2",
+        "chefId":"1",
+        "name": "Chicken Curry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "2 chicken breasts, cut into small pieces",
+          "2 tbsp vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tbsp grated ginger",
+          "2 tbsp curry powder",
+          "1 tsp cumin",
+          "400ml can coconut milk",
+          "1 cup water",
+          "1 cup frozen peas"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large saucepan over medium heat.",
+          "Add onion, garlic, and ginger and cook until softened.",
+          "Add chicken and cook until browned.",
+          "Add curry powder and cumin and cook until fragrant.",
+          "Add coconut milk and water and bring to a simmer.",
+          "Simmer for 20-25 minutes or until the chicken is cooked through.",
+          "Stir in frozen peas and cook until heated through.",
+          "Serve with rice or naan bread."
+        ],
+        "rating": 4.2,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+    {
+       "_id": "3",
+       "chefId":"1",
+      "name": "Tiramisu",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "chef": "Nigella Lawson",
+      "ingredients": [
+        "4 egg yolks",
+        "100g caster sugar",
+        "500g mascarpone cheese",
+        "300ml double cream",
+        "2 x 200g packs of sponge fingers",
+        "300ml strong coffee, cooled",
+        "75ml Marsala or Tia Maria",
+        "cocoa powder, for dusting"
+      ],
+      "instructions": [
+        "Cook the spaghetti in a large pan of salted boiling water for 10-12 minutes, or until al dente.",
+        "Meanwhile, make the pesto. Put the basil, pine nuts, garlic and Parmesan in a food processor and blend until finely chopped.",
+        "With the motor running, slowly pour in the olive oil until you have a smooth, thick paste.",
+        "Drain the spaghetti, reserving a cupful of the cooking water. Return the spaghetti to the pan and toss with the pesto, adding a little of the cooking water to loosen if necessary."
+      ]
+    },
+    {
+        "_id": "4",
+        "chefId":"2",
+        "name": "Pesto Pasta",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "250g pasta",
+          "50g basil leaves",
+          "50g pine nuts",
+          "2 garlic cloves",
+          "100ml olive oil",
+          "50g Parmesan cheese",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "Cook pasta in a large pot of boiling salted water for 10-12 minutes or until al dente.",
+          "Meanwhile, blend basil, pine nuts, garlic, olive oil, and Parmesan cheese in a food processor until smooth.",
+          "Season with salt and black pepper, to taste.",
+          "Drain pasta and return it to the pot.",
+          "Add the pesto sauce and toss until evenly coated.",
+          "Serve with extra Parmesan cheese and freshly ground black pepper."
+        ],
+        "rating": 4.8,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+
+      {
+        "_id": "5",
+        "chefId":"2",
+        "name": "Beef Stir Fry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "500g beef sirloin, thinly sliced",
+          "1 red bell pepper, sliced",
+          "1 yellow bell pepper, sliced",
+          "1 onion, sliced",
+          "3 garlic cloves, minced",
+          "2 tbsp vegetable oil",
+          "1 tbsp cornstarch",
+          "1/4 cup soy sauce",
+          "1 tbsp honey",
+          "1 tbsp rice vinegar",
+          "1 tsp sesame oil",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "In a small bowl, whisk together cornstarch, soy sauce, honey, rice vinegar, and sesame oil.",
+          "Season beef with salt and black pepper, to taste.",
+          "Heat vegetable oil in a wok or large skillet over high heat.",
+          "Add beef and stir-fry for 3-4 minutes or until browned.",
+          "Add bell peppers, onion, and garlic and stir-fry for 2-3 minutes or until vegetables are crisp-tender.",
+          "Add the soy sauce mixture and stir-fry for 1-2 minutes or until the sauce has thickened and coats the beef and vegetables.",
+          "Serve with rice or noodles."
+        ],
+        "rating": 4.6,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+
+      {
+        "_id": "6",
+        "chefId":"2",
+        "name": "Chicken Parmesan",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "4 chicken breasts, pounded thin",
+          "1 cup all-purpose flour",
+          "2 eggs, beaten",
+          "2 cups breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1 tsp dried oregano",
+          "1 tsp garlic powder",
+          "Salt and black pepper, to taste",
+          "1 cup marinara sauce",
+          "1 cup shredded mozzarella cheese",
+          "1/4 cup chopped fresh basil"
+        ],
+        "instructions": [
+          "Preheat the oven to 200°C/180°C fan/gas 6.",
+          "Season chicken with salt and black pepper, to taste.",
+          "Coat each chicken breast in flour, shaking off any excess.",
+          "Dip in beaten eggs, then coat in breadcrumbs mixed with Parmesan cheese, oregano, garlic powder, salt, and black pepper.",
+          "Heat vegetable oil in a large skillet over medium-high heat.",
+          "Add chicken breasts and cook for 3-4"
+        ],
+        "rating": 4.6,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+    },
+
+    {
+        "_id": "7",
+        "chefId":"3",
+        "name": "Spinach and Feta Stuffed Chicken",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "200g fresh spinach",
+          "150g feta cheese",
+          "2 garlic cloves, minced",
+          "1/4 cup chopped fresh parsley",
+          "1 tbsp olive oil",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to 200°C/180°C fan/gas 6.",
+          "In a large skillet, heat olive oil over medium heat.",
+          "Add garlic and sauté for 1-2 minutes or until fragrant.",
+          "Add spinach and sauté for 3-4 minutes or until wilted.",
+          "Remove from heat and stir in feta cheese and parsley.",
+          "Season chicken with salt and black pepper, to taste.",
+          "Cut a slit horizontally into each chicken breast, being careful not to cut all the way through.",
+          "Stuff each chicken breast with the spinach and feta mixture.",
+          "Place the stuffed chicken breasts on a baking sheet and bake for 20-25 minutes or until cooked through.",
+          "Serve hot."
+        ],
+        "rating": 4.7,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "8",
+        "chefId":"3",
+        "name": "Peanut Butter and Jelly Sandwich",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "2 slices of bread",
+          "2 tbsp peanut butter",
+          "2 tbsp jelly or jam"
+        ],
+        "instructions": [
+          "Spread peanut butter on one slice of bread.",
+          "Spread jelly or jam on the other slice of bread.",
+          "Put the two slices of bread together, with the peanut butter and jelly sides facing each other.",
+          "Cut the sandwich in half or into quarters, if desired."
+        ],
+        "rating": 4.2,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "9",
+        "chefId":"3",
+        "name": "Greek Salad",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "1 head of lettuce, chopped",
+          "1 cucumber, diced",
+          "1 red onion, sliced",
+          "1 green bell pepper, chopped",
+          "1/2 cup Kalamata olives",
+          "200g feta cheese, crumbled",
+          "1/4 cup extra-virgin olive oil",
+          "2 tbsp red wine vinegar",
+          "1 tsp dried oregano",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "In a large salad bowl, combine chopped lettuce, diced cucumber, sliced onion, chopped bell pepper, and Kalamata olives.",
+          "In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and black pepper.",
+          "Drizzle the dressing over the salad and toss to combine.",
+          "Sprinkle crumbled feta cheese over the top of the salad.",
+          "Serve immediately."
+        ],
+        "rating": 3.9,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "10",
+        "chefId":"4",
+        "name": "Beef Stroganoff",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, diced",
+          "1 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "2 tbsp flour",
+          "2 cups beef broth",
+          "1/2 cup sour cream",
+          "2 tbsp chopped fresh parsley",
+          "Salt and black pepper, to taste",
+          "1 lb cooked egg noodles"
+        ],
+        "instructions": [
+          "Heat a large skillet over medium-high heat.",
+          "Add beef and cook for 2-3 minutes or until browned.",
+          "Remove beef from skillet and set aside.",
+          "Add onion and mushrooms to the skillet and cook for 3-4 minutes or until softened.",
+          "Add garlic and cook for 1 minute or until fragrant.",
+          "Sprinkle flour over the vegetables and stir to combine.",
+          "Gradually pour in beef broth, stirring constantly to prevent lumps.",
+          "Bring mixture to a simmer and cook for 5-7 minutes or until thickened.",
+          "Stir in sour cream and chopped parsley.",
+          "Season with salt and black pepper, to taste.",
+          "Serve beef stroganoff over cooked egg noodles."
+        ],
+        "rating": 4.6,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+
+      {
+        "_id": "11",
+        "chefId":"4",
+        "name": "Banana Bread",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 tsp baking soda",
+          "1/4 tsp salt",
+          "1/2 cup unsalted butter, softened",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "1 tsp vanilla extract",
+          "3 ripe bananas, mashed",
+          "1/2 cup chopped walnuts or pecans, optional"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Grease a 9x5 inch loaf pan.",
+          "In a medium bowl, whisk together flour, baking soda, and salt.",
+          "In a large bowl, beat together butter and brown sugar until light and fluffy.",
+          "Add eggs and vanilla extract, and beat until well combined.",
+          "Stir in mashed bananas.",
+          "Gradually add the flour mixture to the banana mixture, stirring until just combined.",
+          "Fold in chopped nuts, if using.",
+          "Pour batter into the prepared loaf pan.",
+          "Bake for 50-60 minutes or until a toothpick inserted into the center of the bread comes out clean.",
+          "Allow to cool in the pan for 10 minutes before removing and cooling completely on a wire rack."
+        ],
+        "rating": 4.8,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "12",
+        "chefId":"4",
+        "name": "Baked Salmon",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "4 salmon fillets, about 6 oz each",
+          "1/4 cup honey",
+          "2 tbsp soy sauce",
+          "2 tbsp lemon juice",
+          "1 tbsp olive oil",
+          "2 cloves garlic, minced",
+          "Salt and black pepper, to taste",
+          "2 green onions, sliced",
+          "Lemon wedges, for serving"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Grease a 9x5 inch loaf pan.",
+          "In a medium bowl, whisk together flour, baking soda, and salt.",
+          "In a large bowl, beat together butter and brown sugar until light and fluffy.",
+          "Add eggs and vanilla extract, and beat until well combined.",
+          "Stir in mashed bananas.",
+          "Gradually add the flour mixture to the banana mixture, stirring until just combined.",
+          "Fold in chopped nuts, if using.",
+          "Pour batter into the prepared loaf pan.",
+          "Bake for 50-60 minutes or until a toothpick inserted into the center of the bread comes out clean.",
+          "Allow to cool in the pan for 10 minutes before removing and cooling completely on a wire rack."
+        ],
+        "rating": 4.8,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "13",
+        "chefId":"5",
+        "name": "Baked Salmon",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "4 salmon fillets, about 6 oz each",
+          "1/4 cup honey",
+          "2 tbsp soy sauce",
+          "2 tbsp lemon juice",
+          "1 tbsp olive oil",
+          "2 cloves garlic, minced",
+          "Salt and black pepper, to taste",
+          "2 green onions, sliced",
+          "Lemon wedges, for serving"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Grease a 9x5 inch loaf pan.",
+          "In a medium bowl, whisk together flour, baking soda, and salt.",
+          "In a large bowl, beat together butter and brown sugar until light and fluffy.",
+          "Add eggs and vanilla extract, and beat until well combined.",
+          "Stir in mashed bananas.",
+          "Gradually add the flour mixture to the banana mixture, stirring until just combined.",
+          "Fold in chopped nuts, if using.",
+          "Pour batter into the prepared loaf pan.",
+          "Bake for 50-60 minutes or until a toothpick inserted into the center of the bread comes out clean.",
+          "Allow to cool in the pan for 10 minutes before removing and cooling completely on a wire rack."
+        ],
+        "rating": 4.8,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "14",
+        "chefId":"5",
+        "name": "Beef Stroganoff",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, diced",
+          "1 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "2 tbsp flour",
+          "2 cups beef broth",
+          "1/2 cup sour cream",
+          "2 tbsp chopped fresh parsley",
+          "Salt and black pepper, to taste",
+          "1 lb cooked egg noodles"
+        ],
+        "instructions": [
+          "Heat a large skillet over medium-high heat.",
+          "Add beef and cook for 2-3 minutes or until browned.",
+          "Remove beef from skillet and set aside.",
+          "Add onion and mushrooms to the skillet and cook for 3-4 minutes or until softened.",
+          "Add garlic and cook for 1 minute or until fragrant.",
+          "Sprinkle flour over the vegetables and stir to combine.",
+          "Gradually pour in beef broth, stirring constantly to prevent lumps.",
+          "Bring mixture to a simmer and cook for 5-7 minutes or until thickened.",
+          "Stir in sour cream and chopped parsley.",
+          "Season with salt and black pepper, to taste.",
+          "Serve beef stroganoff over cooked egg noodles."
+        ],
+        "rating": 4.6,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "15",
+        "chefId":"6",
+        "name": "Spaghetti Bolognese",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "400g spaghetti",
+          "1 onion, chopped",
+          "1 garlic clove, minced",
+          "2 tbsp olive oil",
+          "500g beef mince",
+          "400g can chopped tomatoes",
+          "2 tbsp tomato paste",
+          "1 tsp dried oregano",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "Cook spaghetti in a large pot of boiling salted water for 10-12 minutes or until al dente.",
+          "Meanwhile, heat olive oil in a large skillet over medium heat.",
+          "Add onion and garlic and cook until soft and translucent.",
+          "Add beef mince and cook until browned.",
+          "Add canned tomatoes, tomato paste, oregano, salt, and black pepper.",
+          "Simmer for 15-20 minutes or until the sauce has thickened.",
+          "Serve spaghetti topped with Bolognese sauce."
+        ],
+        "rating": 2.5,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "16",
+        "chefId":"6",
+        "name": "Chicken Curry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "2 chicken breasts, cut into small pieces",
+          "2 tbsp vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tbsp grated ginger",
+          "2 tbsp curry powder",
+          "1 tsp cumin",
+          "400ml can coconut milk",
+          "1 cup water",
+          "1 cup frozen peas"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large saucepan over medium heat.",
+          "Add onion, garlic, and ginger and cook until softened.",
+          "Add chicken and cook until browned.",
+          "Add curry powder and cumin and cook until fragrant.",
+          "Add coconut milk and water and bring to a simmer.",
+          "Simmer for 20-25 minutes or until the chicken is cooked through.",
+          "Stir in frozen peas and cook until heated through.",
+          "Serve with rice or naan bread."
+        ],
+        "rating": 4.2,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "17",
+        "chefId":"7",
+        "name": "Beef Stroganoff",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "1 lb beef sirloin, thinly sliced",
+          "1 onion, diced",
+          "1 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "2 tbsp flour",
+          "2 cups beef broth",
+          "1/2 cup sour cream",
+          "2 tbsp chopped fresh parsley",
+          "Salt and black pepper, to taste",
+          "1 lb cooked egg noodles"
+        ],
+        "instructions": [
+          "Heat a large skillet over medium-high heat.",
+          "Add beef and cook for 2-3 minutes or until browned.",
+          "Remove beef from skillet and set aside.",
+          "Add onion and mushrooms to the skillet and cook for 3-4 minutes or until softened.",
+          "Add garlic and cook for 1 minute or until fragrant.",
+          "Sprinkle flour over the vegetables and stir to combine.",
+          "Gradually pour in beef broth, stirring constantly to prevent lumps.",
+          "Bring mixture to a simmer and cook for 5-7 minutes or until thickened.",
+          "Stir in sour cream and chopped parsley.",
+          "Season with salt and black pepper, to taste.",
+          "Serve beef stroganoff over cooked egg noodles."
+        ],
+        "rating": 4.6,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "18",
+        "chefId":"8",
+        "name": "Spaghetti Bolognese",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "400g spaghetti",
+          "1 onion, chopped",
+          "1 garlic clove, minced",
+          "2 tbsp olive oil",
+          "500g beef mince",
+          "400g can chopped tomatoes",
+          "2 tbsp tomato paste",
+          "1 tsp dried oregano",
+          "Salt and black pepper, to taste"
+        ],
+        "instructions": [
+          "Cook spaghetti in a large pot of boiling salted water for 10-12 minutes or until al dente.",
+          "Meanwhile, heat olive oil in a large skillet over medium heat.",
+          "Add onion and garlic and cook until soft and translucent.",
+          "Add beef mince and cook until browned.",
+          "Add canned tomatoes, tomato paste, oregano, salt, and black pepper.",
+          "Simmer for 15-20 minutes or until the sauce has thickened.",
+          "Serve spaghetti topped with Bolognese sauce."
+        ],
+        "rating": 2.5,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      },
+      {
+        "_id": "19",
+        "chefId":"7",
+        "name": "Chicken Curry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "ingredients": [
+          "2 chicken breasts, cut into small pieces",
+          "2 tbsp vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tbsp grated ginger",
+          "2 tbsp curry powder",
+          "1 tsp cumin",
+          "400ml can coconut milk",
+          "1 cup water",
+          "1 cup frozen peas"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large saucepan over medium heat.",
+          "Add onion, garlic, and ginger and cook until softened.",
+          "Add chicken and cook until browned.",
+          "Add curry powder and cumin and cook until fragrant.",
+          "Add coconut milk and water and bring to a simmer.",
+          "Simmer for 20-25 minutes or until the chicken is cooked through.",
+          "Stir in frozen peas and cook until heated through.",
+          "Serve with rice or naan bread."
+        ],
+        "rating": 4.2,
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/20/212721-Indian-Chicken-Curry-Murgh-Kari-mfs_005.jpg"
+      }
+
+]

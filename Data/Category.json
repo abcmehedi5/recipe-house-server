@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "001",
+      "name": "Pesto Pasta",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Creamy_Chicken_Pesto_Pasta_Recipe-4-1_400.jpg",
+      "description": "A simple and flavorful pasta dish made with homemade pesto sauce."
+    },
+    {
+      "_id": "002",
+      "name": "Chicken Curry",
+      "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/31/1501791674-delish-chicken-curry-horizontal.jpg?crop=0.665xw:0.998xh;0.139xw,0.00240xh&resize=1200:*",
+      "description": "A hearty and aromatic curry dish made with tender chicken and fragrant spices."
+    },
+    {
+      "_id": "003",
+      "name": "Beef Stew",
+      "image": "https://littlespoonfarm.com/wp-content/uploads/2021/09/Instant-Pot-Beef-Stew-Recipe.jpg",
+      "description": "A comforting and satisfying stew made with tender beef, vegetables, and savory broth."
+    },
+    {
+      "_id": "004",
+      "name": "Vegetable Stir Fry",
+      "image": "https://yellowchilis.com/wp-content/uploads/2022/08/vegetable-stir-fry.jpg",
+      "description": "A hearty and aromatic curry dish made with tender chicken and fragrant spices."
+    }
+]  

@@ -1,0 +1,76 @@
+[
+    {
+      "_id": 1,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+      "name": "John Smith",
+      "experience": 10,
+      "recipes": 20,
+      "likes": 1500,
+      "bio": "John Smith is a seasoned chef with over 10 years of experience in the culinary arts. He specializes in creating innovative dishes using fresh, locally-sourced ingredients."
+    },
+    {
+      "_id": 2,
+      "image": "https://us.123rf.com/450wm/deagreez/deagreez2208/deagreez220802361/190142267-portrait-of-two-delighted-overjoyed-partners-raise-fists-up-celebrate-success-achieve-kitchen.jpg?ver=6",
+      "name": "Emily Johnson",
+      "experience": 5,
+      "recipes": 12,
+      "likes": 1000,
+      "bio": "Emily Johnson is a rising star in the culinary world, with a passion for combining traditional flavors with modern techniques. She has trained in some of the most prestigious kitchens around the world."
+    },
+    {
+      "_id": 3,
+      "image": "https://www.yourfreecareertest.com/wp-content/uploads/2016/07/chef.jpg",
+      "name": "Carlos Rodriguez",
+      "experience": 15,
+      "recipes": 30,
+      "likes": 2000,
+      "bio": "Carlos Rodriguez is a master of Latin American cuisine, with a particular focus on Mexican and Cuban flavors. He has won numerous awards for his innovative dishes and commitment to using sustainable ingredients."
+    },
+    {
+      "_id": 4,
+      "image": "https://themigration.com.au/wp-content/uploads/2021/12/Untitled-design.png",
+      "name": "Sophie Lee",
+      "experience": 8,
+      "recipes": 18,
+      "likes": 1200,
+      "bio": "Sophie Lee is a versatile chef with a background in both Asian and European cuisine. She loves experimenting with new flavors and techniques to create dishes that are both delicious and visually stunning."
+    },
+    {
+      "_id": 5,
+      "image": "https://us.123rf.com/450wm/deagreez/deagreez2208/deagreez220802361/190142267-portrait-of-two-delighted-overjoyed-partners-raise-fists-up-celebrate-success-achieve-kitchen.jpg?ver=6",
+      "name": "David Kim",
+      "experience": 12,
+      "recipes": 25,
+      "likes": 1800,
+      "bio": "David Kim is a Korean-American chef who specializes in fusion cuisine that blends traditional Korean flavors with modern techniques. He has worked in some of the top restaurants in New York City and Los Angeles."
+    },
+    {
+      "_id": 6,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sushi_chef_Masayoshi_Kazato_02.JPG/640px-Sushi_chef_Masayoshi_Kazato_02.JPG",
+      "name": "Maria Martinez",
+      "experience": 20,
+      "recipes": 40,
+      "likes": 2500,
+      "viewrecipesButton": "https://example.com/chef6/recipes",
+      "chefShortBio": "Carlos Rodriguez is a master of Latin American cuisine, with a particular focus on Mexican and Cuban flavors. He has won numerous awards for his innovative dishes and commitment to using sustainable ingredients."
+    },
+    {
+      "_id": 7,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+      "name": "Sophie Lee",
+      "experience": 8,
+      "recipes": 18,
+      "likes": 1200,
+      "bio": "Sophie Lee is a versatile chef with a background in both Asian and European cuisine. She loves experimenting with new flavors and techniques to create dishes that are both delicious and visually stunning."
+    },
+    {
+      "_id": 8,
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "name": "David Kim",
+      "experience": 12,
+      "recipes": 25,
+      "likes": 1800,
+      "bio": "David Kim is a Korean-American chef who specializes in fusion cuisine that blends traditional Korean flavors with modern techniques. He has worked in some of the top restaurants in New York City and Los Angeles."
+    }
+
+]  
